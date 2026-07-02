@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 
 import Button from "../ui/Button";
-import profile from "../../Data/profile";
+import profile from "../../data/profile";
 import profileImage from "../../assets/images/profile.jpg";
 
 const Hero = () => {

@@ -1,6 +1,6 @@
 import { motion } from "framer-motion";
 import Card from "../ui/Card";
-import profile from "../../Data/profile";
+import profile from "../../data/profile";
 
 const stats = [
   {
