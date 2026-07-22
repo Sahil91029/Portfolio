@@ -75,7 +75,6 @@ The portfolio focuses on **clean UI**, **responsive design**, **smooth animation
 - ⚛️ React.js + Vite
 - 🎭 Framer Motion Animations
 - 💨 Tailwind CSS
-- 🌙 Dark Theme UI
 - 🧩 Reusable Components
 - 📊 Skills Progress Section
 - 💼 Experience Timeline
